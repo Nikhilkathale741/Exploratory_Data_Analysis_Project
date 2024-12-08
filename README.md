@@ -1,0 +1,1 @@
+Diwali Sales Analysis: Conducted EDA on Diwali sales data using Python libraries like NumPy, Pandas, Matplotlib, and Seaborn. Analyzed demographics, spending patterns, and product preferences. Includes data cleaning, handling missing values, and visualizations to uncover consumer insights and trends during the Diwali season.
